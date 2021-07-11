@@ -3,17 +3,19 @@
 **Version 1.0.0**
 
 Una aplicacion para enviar un Mail usando [JAVA](https://github.com/topics/java)
+
 ---
+
 ## REQUISITOS
----
+
 - Mail *destinatario*
 - Mail *remitente*
 - Contraseña *mail remitente*
-
-## DEPENDECIA
 ---
+## DEPENDECIA
 
-```
+
+```HTML
  <dependencies>
    <dependency>
     <groupId>javax.mail</groupId>
