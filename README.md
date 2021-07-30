@@ -8,9 +8,9 @@ Una aplicacion para enviar un Mail usando [JAVA](https://github.com/topics/java)
 
 ## REQUISITOS
 
-- Mail *destinatario*
-- Mail *remitente*
-- Contraseña *mail remitente*
+- [x] Mail *destinatario*
+- [x] Mail *remitente*
+- [x] Contraseña *mail remitente*
 ---
 ## DEPENDECIA
 
